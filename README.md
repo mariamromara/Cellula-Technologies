@@ -11,21 +11,12 @@ week_5 = "code5.ipynb" + "app.py" + "index.html" + "band_maxs.npy" + "bands_mins
 folder structure: <folder_example>
 
 <project>
-
   app.py
-
   bast_unet.keras
-
   bands_mins.npy
-
   bands_maxs.npy
-
   <static>
-
     <uploads>
-
     <results>
-
   <templates>
-
     index.html
